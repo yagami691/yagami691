@@ -21,7 +21,7 @@ The realisations going  *web sites* to *mobile applications*
 
 **Technologies**: ReactJS
  ## How to reach me out ?
-  you can reach me out via the issues and pull requests or via my [Facebook](https://www.facebook.com/) account
+  you can reach me out via the issues and pull requests or via my [Linkedin](https://www.linkedin.com/feed/) account
 
 
 
