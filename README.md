@@ -18,8 +18,9 @@ The realisations going  *web sites* to *mobile applications*
   |     1|   Javacript     |
   |     2|   html          |
   |     3|   css           |
+  |     4|   java          |
 
-**Technologies**: ReactJS
+**Technologies**: ReactJS, Spring boot
  ## How to reach me out ?
   you can reach me out via the issues and pull requests or via my [Linkedin](https://www.linkedin.com/feed/) account
 
